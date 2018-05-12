@@ -1,0 +1,28 @@
+_repo: Letters-from-an-Old-Railway-OfficialTo-his-Son-a-Division-Superintendent_44853
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44853-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hine, Charles De Lano
+    alias: Hine, Charles DeLano
+    birthdate: 1867
+    deathdate: 1927
+    gutenberg_agent_id: '42949'
+    url: http://www.gutenberg.org/2009/agents/42949
+description: ''
+gutenberg_issued: '2014-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44853'
+  lccn: 04033597
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads -- Management'
+- !lcc 'HE'
+title: Letters from an Old Railway Official to His Son, a Division Superintendent
+url: http://www.gutenberg.org/ebooks/44853
